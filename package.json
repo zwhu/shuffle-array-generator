@@ -1,0 +1,17 @@
+{
+  "name": "shuffle-array-generator",
+  "version": "0.0.1",
+  "description": "generator a shuffle array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ES2015",
+    "generator",
+    "shuffle",
+    "array"
+  ],
+  "author": "zwhu2014@foxmail.com",
+  "license": "MIT"
+}
